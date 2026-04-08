@@ -1,1 +1,1 @@
-# Collaborative-Business-Website
+# School Projects
